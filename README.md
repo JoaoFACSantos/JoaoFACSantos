@@ -38,8 +38,8 @@ interests: ["web development", "automation", "open source"]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoaoFACSantos&show_icons=true&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=B8860B&icon_color=B8860B&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFACSantos&layout=compact&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=B8860B&text_color=c9d1d9" width="38%" />
+<img src="https://github-readme-stats-ten-livid-15.vercel.app/api?username=JoaoFACSantos&show_icons=true&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=B8860B&icon_color=B8860B&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-ten-livid-15.vercel.app/api/top-langs/?username=JoaoFACSantos&layout=compact&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=B8860B&text_color=c9d1d9" width="38%" />
 
 <br/>
 
